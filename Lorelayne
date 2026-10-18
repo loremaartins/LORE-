@@ -2,32 +2,60 @@
 
 ### 👩‍💻 Desenvolvedora Software | Full-Stack & APIs
 
-Engenheira de Software em formação, focada na criação de soluções web eficientes, APIs RESTful e aplicações modernas com ecossistema JavaScript/TypeScript e Python. 
+Engenheira de Software em formação, focada na criação de soluções web eficientes, APIs RESTful e arquiteturas escaláveis.
 
-- 🔭 **Atualmente trabalhando em:** Projetos full-stack com Node.js, React, Next.js e Prisma ORM.
-- ⚡ **Diferencial:** Alta capacidade de aprendizado, foco na resolução de problemas e entrega rápida de protótipos funcionais.
+- 🚀 **Atualmente trabalhando em:** Projetos full-stack com Node.js, React, Next.js e Prisma ORM.
+- ⚡ **Diferencial:** Alta capacidade de aprendizado, foco na resolução de problemas e entrega de código limpo.
 - 🎯 **Objetivo:** Posições Remotas / Full-Stack / Backend Developer.
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-**Linguagens & Frameworks:**
-- JavaScript (ES6+), TypeScript, Node.js, Express, Python, React, Next.js
-
-**Bancos de Dados & Ferramentas:**
-- Prisma ORM, PostgreSQL, SQLite, Git, GitHub, REST APIs, Postman/Insomnia
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
 ### 📂 Projetos em Destaque
 
-1. **[ShopFlow Backend](link-do-repo):** API de E-commerce com Express + Prisma ORM.
-2. **[EspaçoFlow](link-do-repo):** Sistema de reservas e agendamento de espaços corporativos.
-3. **[DriveSmart](link-do-repo):** Backend interativo para assistente virtual de trânsito.
+1. **[ShopFlow Backend](https://github.com/loramaritins/shopflow-backend)** 🛒
+   - API de e-commerce desenvolvida com Node.js e Prisma ORM, focada na modelagem de dados robusta e rotas eficientes.
+   - **Techs:** Node.js, TypeScript, Prisma, PostgreSQL.
+
+2. **[DriveSmart](https://github.com/loramaritins)** 🚗
+   - Assistente/plataforma para instrução de direção utilizando IA para apoio no aprendizado de condutores.
+   - **Techs:** Node.js, Express, Integração com APIs de IA.
+
+3. **[API de Reserva de Espaços](https://github.com/loramaritins)** 📅
+   - Protótipo de backend para gestão e reserva de espaços e horários.
+   - **Techs:** Node.js, Express, JavaScript.
 
 ---
 
-📫 **Vamos nos conectar?**
-- LinkedIn: [seu-linkedin-aqui](https://linkedin.com/in/seu-perfil)
-- Email: [seu-email@dominio.com](mailto:seu-email@dominio.com)
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=loramaritins&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loramaritins&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📬 Vamos nos conectar?
+
+- **LinkedIn:** [Seu LinkedIn](https://linkedin.com)
+- **E-mail:** `seuemail@exemplo.com`
